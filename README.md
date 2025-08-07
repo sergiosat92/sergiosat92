@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sergio
+# ⛓️ BLOCKCHAIN & BACKEND RUST DEVELOPER
 
 I'm a **Rust developer** focused on:
 
