@@ -8,9 +8,8 @@ I'm a **Rust developer** focused on:
 - 🏗️ Backend systems (Rust & Typescript)
 - 🎮 Currently developing a **MMORTS** fantasy city builder with races, tech trees, and diplomacy mechanics
 
----
 
-## 🧠 Core Skills
+## 🧠 Skills
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Risc Zero](https://img.shields.io/badge/RiscZero-222222?style=flat&logo=data:image/svg+xml;base64,...)
@@ -21,7 +20,6 @@ I'm a **Rust developer** focused on:
 ![Rocket](https://img.shields.io/badge/Rocket-000000?style=flat&logo=rocket&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
----
 
 ## 🔗 Connect with me
 - 📫 Email: sergiosat92@gmail.com
