@@ -2,7 +2,7 @@
 
 I'm a **Rust developer** focused on:
 
-- 🦀 Passionate about distributed systems programming with **Rust**
+- 🦀 Distributed systems programming with **Rust**
 - 🧠 Blockchain (Solana native & Anchor)
 - 🔐 Zero Knowledge Proofs and Confidential Computing
 - 🏗️ Backend systems (Rust & Typescript)
