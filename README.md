@@ -4,9 +4,9 @@ I'm a **Rust developer** focused on:
 
 - 🦀 Distributed systems programming with **Rust**
 - 🧠 Blockchain (Solana native & Anchor)
-- 🔐 Zero Knowledge Proofs and Confidential Computing
 - 🏗️ Backend systems (Rust & Typescript)
 - 🎮 Currently developing a **MMORTS** fantasy city builder with races, tech trees, and diplomacy mechanics
+- 🔐 Zero Knowledge Proofs and Confidential Computing (next steps... coming soon)
 
 
 ## 🧠 Skills
