@@ -20,7 +20,7 @@ I'm a **Rust developer** focused on:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 
-## 🏗️ Features Projects
+## 🏗️ Featured Projects
 
 - **Solana Atomic Swap (Rust, no Anchor)**: ![View Repo](https://github.com/sergiosat92/solana_atomic_swap) 
 - **Solana Checkout Interface with Wallet Abstraction (Angular + Solana)**: [View Repo](https://github.com/sergiosat92/ui_solana_checkout_angular)
